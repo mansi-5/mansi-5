@@ -5,11 +5,9 @@
 ### Some languages I'm familiar with
 - C
 - C++
+- Python
 - HTML
 - CSS
-- Java
-- Flutter
-- Python
 
 ### Some things I like to do
 - Problem solving
