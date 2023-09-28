@@ -1,6 +1,5 @@
 ### Hi there 👋
 - I’m Mansi Saini, a programming enthusiast.
-- I’m looking for help with getting started with open source contribution.
 
 ### Some languages I'm familiar with
 - C
@@ -13,7 +12,7 @@
 - Problem solving
 - Web development
 
-I would be extremely happy to connect on [LinkedIn](www.linkedin.com/in/mansi05) or on [GitHub](https://github.com/mansi-5).
+I would be extremely happy to connect on [LinkedIn](www.linkedin.com/in/mansisaini1) or on [GitHub](https://github.com/mansi-5).
 
 <!--
 **mansi-5/mansi-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
